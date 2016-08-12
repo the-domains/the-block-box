@@ -13,15 +13,15 @@ description: >-
   options and configurations to protect both people and property from a myriad
   of life-threatening hazards brought about by Mother Nature or unfriendly
   neighbors.
-datePublished: '2016-08-12T22:26:08.736Z'
-dateModified: '2016-08-12T22:25:31.150Z'
+datePublished: '2016-08-12T22:38:20.305Z'
+dateModified: '2016-08-12T22:26:17.592Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-12-universal-praxis.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-12-universal-praxis.md
 url: universal-praxis/index.html
 _type: Article
 
