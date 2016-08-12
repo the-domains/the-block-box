@@ -1,0 +1,28 @@
+name: The Block Box
+favicon: null
+layout_spectrum: 0.10012784716673195
+typography_spectrum: 0.1293321126140654
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6353707413654774
+  lightness: 0.5893200011923909
+  saturation: 0.4285516107920557
+  rhythmicContrast: 0.7940608507487923
+purpose: []
